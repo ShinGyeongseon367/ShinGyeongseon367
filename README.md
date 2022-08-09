@@ -9,6 +9,3 @@
 - EIP(Engineer Information Processing)
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:tlsrid1119@gmail.com)
-
-
-<span style="color:blue">some *blue* text</span>.
