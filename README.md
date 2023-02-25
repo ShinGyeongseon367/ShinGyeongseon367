@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋
+# 안녕 👋
 
 # blog
 [![Notion](https://img.shields.io/badge/Notion-yellow?logo=notion)](https://melodic-drug-e14.notion.site/2a32e7e9cfe44127adbc65a58c719ce6)
