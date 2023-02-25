@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 stack mark: https://shields.io/
 icon: https://simpleicons.org/?q=CNF
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=75bde0&height=300&section=header&text=ShinGyeonseon&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=lightpink&height=300&section=header&text=ShinGyeonseon&fontSize=90&animation=fadeIn&fontAlignY=38&desc=DevOps&descAlignY=51&descAlign=62)
 
 # 안녕 👋 
 30 전까진 자유롭게 👍🏻 이것 저것 요것 다 해봅시다
