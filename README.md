@@ -21,9 +21,9 @@ icon: https://simpleicons.org/?q=CNF
 [![Notion](https://img.shields.io/badge/Notion-yellow?logo=notion)](https://melodic-drug-e14.notion.site/2a32e7e9cfe44127adbc65a58c719ce6)
 
 ## Stack ⚙️
-![Spring](https://img.shields.io/badge/-Spring-5d5d5d?style=plastic&logo=Spring) ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=plastic&logo=JavaScript)
+![Spring](https://img.shields.io/badge/-Spring-5d5d5d?style=plastic&logo=Spring) ![JavaScript](https://img.shields.io/badge/-JavaScript-5d5d5d?style=plastic&logo=JavaScript)
 
-![K3s](https://img.shields.io/badge/-K3s-white?style=plastic&logo=K3s) ![CNCF](https://img.shields.io/badge/-CNCF-red?style=plastic&logo=CNCF)
+![K3s](https://img.shields.io/badge/-K3s-red?style=plastic&logo=K3s) ![CNCF](https://img.shields.io/badge/-CNCF-red?style=plastic&logo=CNCF)
 
 
 ## Exprience
