@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # blog
 [![Notion](https://img.shields.io/badge/Notion-yellow?logo=notion)](https://melodic-drug-e14.notion.site/2a32e7e9cfe44127adbc65a58c719ce6)
-
+<br>
 # Stack ⚙️
-![Spring]https://img.shields.io/badge/-Notion-black?style=plastic&logo=Spring
+![]https://img.shields.io/badge/-Notion-black?style=plastic&logo=Spring
 
 
 ## Exprience
