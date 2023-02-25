@@ -11,15 +11,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+stack mark: https://shields.io/
+icon: https://simpleicons.org/?q=CNF
 -->
 
 # 안녕 👋
 
-# blog
+## blog
 [![Notion](https://img.shields.io/badge/Notion-yellow?logo=notion)](https://melodic-drug-e14.notion.site/2a32e7e9cfe44127adbc65a58c719ce6)
-<br>
-# Stack ⚙️
-![Spring](https://img.shields.io/badge/-Notion-black?style=plastic&logo=Spring)
+
+## Stack ⚙️
+![Spring](https://img.shields.io/badge/-Spring-black?style=plastic&logo=Spring) ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=plastic&logo=JavaScript)
+
+![K3s](https://img.shields.io/badge/-K3s-white?style=plastic&logo=K3s) ![CNCF](https://img.shields.io/badge/-CNCF-red?style=plastic&logo=CNCF)
 
 
 ## Exprience
