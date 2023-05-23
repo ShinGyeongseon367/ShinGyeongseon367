@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 stack mark: https://shields.io/
 icon: https://simpleicons.org/?q=CNF
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&fontColor=ffffff&height=300&section=header&text=ShinGyeonseon&fontSize=90&animation=fadeIn&fontAlignY=38&desc=DevOps&descAlignY=51&descAlign=32)
-# 안녕 👋 
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&fontColor=ffffff&height=300&section=header&text=Gyeonseon&fontSize=90&animation=fadeIn&fontAlignY=38&desc=DevOps&descAlignY=51&descAlign=32)
+# 👋 
 30 전까진 자유롭게 👍🏻 
 ## Stack ⚙️
 ![K3s](https://img.shields.io/badge/-K3s-red?style=plastic&logo=K3s) ![CNCF](https://img.shields.io/badge/-CNCF-red?style=plastic&logo=CNCF)
 ![Spring](https://img.shields.io/badge/-Spring-5d5d5d?style=plastic&logo=Spring) ![JavaScript](https://img.shields.io/badge/-JavaScript-5d5d5d?style=plastic&logo=JavaScript) ![Jquery](https://img.shields.io/badge/-jQuery-5d5d5d?style=plastic&logo=jQuery)
-## blog - [![Notion](https://img.shields.io/badge/Notion-yellow?logo=notion)](https://melodic-drug-e14.notion.site/2a32e7e9cfe44127adbc65a58c719ce6)
-## Email - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:tlsrid1119@gmail.com)
+
