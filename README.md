@@ -16,3 +16,4 @@ icon: https://simpleicons.org/?q=CNF
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&fontColor=ffffff&height=300&section=header&text=🏆&fontSize=90&animation=fadeIn&fontAlignY=38&desc=❤️&descAlignY=51&descAlign=32)
 # 👋 
+velog: https://velog.io/@gsun
