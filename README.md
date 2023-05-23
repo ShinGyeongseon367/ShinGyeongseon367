@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 stack mark: https://shields.io/
 icon: https://simpleicons.org/?q=CNF
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&fontColor=ffffff&height=300&section=header&text=Gyeonseon&fontSize=90&animation=fadeIn&fontAlignY=38&desc=독도는우리땅이지독도는대한민국땅이지&descAlignY=51&descAlign=32)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&fontColor=ffffff&height=300&section=header&text=🏆&fontSize=90&animation=fadeIn&fontAlignY=38&desc=독도는우리땅이지독도는대한민국땅이지&descAlignY=51&descAlign=32)
 # 👋 
 ## Stack ⚙️
 ![K3s](https://img.shields.io/badge/-K3s-red?style=plastic&logo=K3s) ![CNCF](https://img.shields.io/badge/-CNCF-red?style=plastic&logo=CNCF)
