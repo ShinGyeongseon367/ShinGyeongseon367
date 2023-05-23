@@ -16,7 +16,3 @@ icon: https://simpleicons.org/?q=CNF
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&fontColor=ffffff&height=300&section=header&text=🏆&fontSize=90&animation=fadeIn&fontAlignY=38&desc=❤️&descAlignY=51&descAlign=32)
 # 👋 
-## Stack ⚙️
-![K3s](https://img.shields.io/badge/-K3s-red?style=plastic&logo=K3s) ![CNCF](https://img.shields.io/badge/-CNCF-red?style=plastic&logo=CNCF)
-![Spring](https://img.shields.io/badge/-Spring-5d5d5d?style=plastic&logo=Spring) ![JavaScript](https://img.shields.io/badge/-JavaScript-5d5d5d?style=plastic&logo=JavaScript) ![Jquery](https://img.shields.io/badge/-jQuery-5d5d5d?style=plastic&logo=jQuery)
-
