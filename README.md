@@ -18,3 +18,7 @@ icon: https://simpleicons.org/?q=CNF
 # 👋 
 velog: https://velog.io/@gsun  
 medium: https://medium.com/@tlsrid1119  
+
+<a href="https://medium.com/@tlsrid1119" target="blank">
+<img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" style="height: 3rem; background-color:white"/>
+</a>
